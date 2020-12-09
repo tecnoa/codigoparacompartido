@@ -1,0 +1,7 @@
+colo cacion en html
+<!DOCTYPE html>
+<html>
+<head>
+
+<link rel="stylesheet" href="nombre del archivo.css">
+</head>
